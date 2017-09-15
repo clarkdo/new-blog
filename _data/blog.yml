@@ -2,12 +2,23 @@
 - name: Blog
   href: /blog/
 
-# edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: JavaScript
-  href: /javascript/
-
 - name: Java
   href: /java/
 
+- name: JavaScript
+  href: /javascript/
+
+- name: Git
+  href: /git/
+
 - name: Design Pattern
   href: /pattern/
+
+- name: Tool
+  href: /tool/
+
+- name: Life
+  href: /life/
+
+- name: Other
+  href: /other/
