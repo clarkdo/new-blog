@@ -1,0 +1,57 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: CFilmCloud
+    i18n: company_cfc
+  desc:
+    detail: Java Mircoservice, Frontend Framework, DevOps
+    i18n: company_cfc_desc
+  date:
+    detail: Jul. 2016
+    i18n: company_cfc_date
+  job:
+    detail: Architect
+    i18n: company_cfc_job
+  icon: fa-plus-square
+
+- name:
+    detail: IBM
+    i18n: company_ibm
+  desc:
+    detail: PHP, Web, CRM, Agile
+    i18n: company_ibm_desc
+  date:
+    detail: Nov. 2014
+    i18n: company_ibm_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_ibm_job
+  icon: fa-plus-square
+
+- name:
+    detail: Citigroup Services and Technology (China) Limited
+    i18n: company_citi
+  desc:
+    detail: Java, Finance
+    i18n: company_citi_desc
+  date:
+    detail: Jul. 2013
+    i18n: company_citi_date
+  job:
+    detail: Software Engineer
+    i18n: company_citi_job
+  icon: fa-plus-square
+
+- name:
+    detail: Neusoft
+    i18n: company_neu
+  desc:
+    detail: Java, Web, Telecom
+    i18n: company_neu_desc
+  date:
+    detail: Jul. 2010
+    i18n: company_neu_date
+  job:
+    detail: Java Web Developer
+    i18n: company_neu_job
+  icon: fa-plus-square

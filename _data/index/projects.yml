@@ -1,0 +1,16 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Hare
+  i18n: hare
+  gh_user: clarkdo
+  repo: hare
+  img: /static/assets/img/landing/vue.png
+  desc: Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js.
+
+- name: Marlin
+  i18n: marlin
+  gh_user: clarkdo
+  repo: marlin
+  img: /static/assets/img/landing/node.png
+  desc: Server app boilerplate based on Koa 2.x, , inspired by k2.
