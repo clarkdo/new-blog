@@ -4,13 +4,10 @@
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 - name: JavaScript
-  href: /js/
+  href: /javascript/
 
 - name: Java
   href: /java/
 
-- name: Design Patterns Stories
+- name: Design Pattern
   href: /pattern/
-
-- name: Other
-  href: /other/

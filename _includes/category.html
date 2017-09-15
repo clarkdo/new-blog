@@ -19,6 +19,8 @@ $(function(){
         {% assign category = page.url | remove:'/' | capitalize %}
         {% if category == 'Html' %}
         {% assign category = category | upcase %}
+        {% elsif category == 'Javascript' %}
+        {% assign category = 'JavaScript' %}
         {% endif %}
         <h1>{{ category }}</h1>
     </div>

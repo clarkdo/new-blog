@@ -23,10 +23,10 @@ author:  # change following line to your infomation.
   cv: http://clarkdo.github.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-java
-    - name: icon-php
+    - name: icon-java-bold
+    - name: icon-php-alt
   skill_icon2:
-    - name: icon-javascript
+    - name: icon-javascript-alt
     - name: icon-nodejs
   desc: I'm clark, an ordinary programmer.  # Describe yourself.
 
