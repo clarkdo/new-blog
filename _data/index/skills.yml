@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Java, JavaScript, Node.js, GitHub, Git, DevOps, PHP, Sleeping
-percentage: 90, 90, 85, 80, 76, 65, 60, 100
+aspects: Java, PHP, JavaScript, Node.js, GitHub, DevOps, Git, Sleeping
+percentage: 90, 60, 90, 85, 80, 65, 76, 100
