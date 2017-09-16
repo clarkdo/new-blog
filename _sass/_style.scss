@@ -1352,6 +1352,7 @@ img.circle-border {
 }
 
 code {
+  font-family: Inconsolata,Monaco,Menlo,Consolas,"Courier New",monospace;
   background-color: #F9F2F4;
   border-radius: 4px;
   color: #ca4440;
@@ -1877,6 +1878,8 @@ ul.clear-list:first-child {
 }
 
 .article {
+  font-size: 16px;
+  line-height: 1.5;
   h1 {
     font-size: 48px;
     color: #2F4050;
