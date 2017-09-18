@@ -2539,16 +2539,24 @@ body {
         -webkit-transition-property: opacity;
         transition-property: opacity;
       }
-      .active {
-        opacity: 1;
-        &.left, &.right {
-          left: 0;
-          opacity: 0;
-          z-index: 1;
-        }
+      .item,
+      .active.left,
+      .active.right {
+        opacity: 0;
       }
-      .next.left, .prev.right {
+
+      .active,
+      .next.left,
+      .prev.right {
         opacity: 1;
+      }
+  
+      .next,
+      .prev,
+      .active.left,
+      .active.right {
+        left: 0;
+        transform: translate3d(0, 0, 0);
       }
     }
     .carousel-control {
