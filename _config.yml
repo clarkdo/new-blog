@@ -6,7 +6,7 @@ tagline: 'The blog of Clark'
 description: 'Clark Blog'
 keywords: Clark,Clarkdo,blog,Jekyll,github,gh-pages
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: http://clarkdo.github.io/
+url: https://clark.js.io/
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
@@ -20,8 +20,8 @@ author:  # change following line to your infomation.
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: clark.duxin@gmail.com  # Leave blank if you don't have now
-  cv: http://clarkdo.github.com  # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  cv: https://clark.js.io/  # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are //fontawesome.io/ and //fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-java-bold
     - name: icon-php-alt
