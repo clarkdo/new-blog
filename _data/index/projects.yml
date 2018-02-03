@@ -8,6 +8,13 @@
   img: /static/assets/img/landing/vue.png
   desc: Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js.
 
+- name: Nuxt.js
+  i18n: nuxt
+  gh_user: nuxt
+  repo: nuxt.js
+  img: /static/assets/img/landing/nuxt.png
+  desc: Versatile Vue.js Framework.
+
 - name: Marlin
   i18n: marlin
   gh_user: clarkdo
